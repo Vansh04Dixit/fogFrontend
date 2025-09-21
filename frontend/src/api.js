@@ -1,1 +1,1 @@
-export const API_URL = "https://fog-webpage.onrender.com/";
+export const API_URL = "https://fog-webpage.onrender.com";
